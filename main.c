@@ -3,6 +3,8 @@
 
 void main(void)
 {
+
+	int i=3;
 	
-	int i;
+
 }
